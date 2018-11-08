@@ -9,6 +9,7 @@ public class Frog {
         this.id = id;
         this.name = name;
     }
+
     /*
     public String toString(){
         StringBuilder sb = new StringBuilder();
@@ -16,7 +17,7 @@ public class Frog {
         return sb.toString();
     }
     */
-    public String toString(){
+    public String toString() {
         return String.format("%-2d: %s", id, name);
     }
 
