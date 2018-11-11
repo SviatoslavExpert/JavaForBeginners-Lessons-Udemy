@@ -1,3 +1,5 @@
+//  Multiple Exceptions
+
 package com.gmail.granovskiy.s;
 
 import java.io.FileNotFoundException;
