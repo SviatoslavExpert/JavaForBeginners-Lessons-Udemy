@@ -14,7 +14,7 @@ public class App {
         car1.run();
         System.out.println();
         cam1.run();
-        
+
         //Machine machine1 = new Machine();
     }
 
