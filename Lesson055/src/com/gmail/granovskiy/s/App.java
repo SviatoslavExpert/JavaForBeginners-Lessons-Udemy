@@ -1,3 +1,5 @@
+//  Natural Ordering and the Comparable Interface: Java Collections Framework
+
 package com.gmail.granovskiy.s;
 
 import java.util.ArrayList;
